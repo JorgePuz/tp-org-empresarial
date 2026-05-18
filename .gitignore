@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Notebooks
+.ipynb_checkpoints/
+
+# Datos pesados
+*.xlsx
+*.xls
+
+# Resultados temporales
+*.log
