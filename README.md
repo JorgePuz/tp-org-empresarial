@@ -25,4 +25,4 @@ Simlador de ventas con registros diarios, que incluye fecha de la venta y monto.
 3. Ejecutar el script: scripts/analisis_ventas.py
 
 ## Trazabilidad
-Proyecto gestionado en Jira bajo el proyecto TP-OrgEmpresarial.
+Proyecto gestionado en Jira bajo el proyecto Analisis-Ventas-OEM
